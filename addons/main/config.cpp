@@ -3,7 +3,7 @@
 class CfgPatches {
     class ADDON {
         // Meta information for editor
-        name = COMPONENT_NAME;
+        name = ADDON_NAME;
         author = CSTRING(mod_author);
         authors[] = {"Andx [TTT]"};
 
@@ -17,7 +17,7 @@ class CfgPatches {
 
         // Required addons, used for setting load order.
         // When any of the addons is missing, pop-up warning will appear when launching the game.
-        requiredAddons[] = {};
+        requiredAddons[] = {""};
 
         // List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups)
         units[] = {};

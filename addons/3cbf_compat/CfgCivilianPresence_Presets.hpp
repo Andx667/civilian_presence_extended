@@ -1,12 +1,16 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_3CB_Factions    {
-        name = "Men (Livionian)";
-        picture = "\a3\Data_f_enoch\flags\flag_Enoch_CO.paa";
-        value = "Civ_Livionian";
-        defaultValue = "Civ_Livionian";
+        name = "Men (African Desert Civlists (3CBF))";
+        picture = "";
+        value = "Civ_ADC";
+        defaultValue = "Civ_ADC";
         class UnitTypes {
-            bis_units[]    = { "C_Man_1_enoch_F", "C_Man_2_enoch_F", "C_Man_3_enoch_F", "C_Man_4_enoch_F", "C_Man_5_enoch_F", "C_Man_6_enoch_F", "C_Farmer_01_enoch_F" };
+            bis_units[] = {
+                "UK3CB_ADC_C_CIV_CHR_01",
+                "UK3CB_ADC_C_CIV_CHR_02",
+                "UK3CB_ADC_C_CIV_ISL_01",
+            };
         };
     };
 };

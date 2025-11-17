@@ -3,11 +3,11 @@
 class CfgPatches {
     class ADDON {
         // Meta information for editor
-        name = COMPONENT_NAME;
-        author = CSTRING(mod_author);
+        name = ADDON_NAME;
+        author = ECSTRING(main,mod_author);
         authors[] = {"Andx [TTT]"};
 
-        url = CSTRING(mod_url);
+        url = ECSTRING(main,mod_url);
 
         VERSION_CONFIG;
 
