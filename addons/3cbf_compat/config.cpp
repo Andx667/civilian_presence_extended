@@ -18,6 +18,7 @@ class CfgPatches {
         // Required addons, used for setting load order.
         // When any of the addons is missing, pop-up warning will appear when launching the game.
         requiredAddons[] = {
+            "cpx_main",
             "UK3CB_Factions_ADC_C",
             "UK3CB_Factions_MEC_C",
             "UK3CB_Factions_TKC_C",
