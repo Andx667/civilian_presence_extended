@@ -5,6 +5,7 @@ class CivilianPresence_Presets {
         picture = "";
         value = "Civ_ADC";
         defaultValue = "Civ_ADC";
+
         class UnitTypes {
             bis_units[] = {
                 "UK3CB_ADC_C_CIV_CHR_01",
@@ -37,6 +38,7 @@ class CivilianPresence_Presets {
         picture = "";
         value = "Civ_MEC";
         defaultValue = "Civ_MEC";
+
         class UnitTypes {
             bis_units[] = {
                 "UK3CB_MEC_C_CIV_01",
@@ -62,6 +64,7 @@ class CivilianPresence_Presets {
         picture = "";
         value = "Civ_CHC";
         defaultValue = "Civ_CHC";
+
         class UnitTypes {
             bis_units[] = {
                 "UK3CB_CHC_C_ACT",
@@ -91,6 +94,7 @@ class CivilianPresence_Presets {
         picture = "";
         value = "Civ_TKC";
         defaultValue = "Civ_TKC";
+
         class UnitTypes {
             bis_units[] = {
                 "UK3CB_TKC_C_CIV",
