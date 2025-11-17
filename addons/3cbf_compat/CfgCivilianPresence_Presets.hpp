@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_3CB_Factions_ADC {
-        name = "Men (African Desert Civlists (3CBF))";
+        name = "Men (African Desert Civilians (3CB Factions))";
         picture = "";
         value = "Civ_ADC";
         defaultValue = "Civ_ADC";
@@ -33,7 +33,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_3CB_Factions_MEC {
-        name = "Men (Middle Eastern Civilians (3CBF))";
+        name = "Men (Middle Eastern Civilians (3CB Factions))";
         picture = "";
         value = "Civ_MEC";
         defaultValue = "Civ_MEC";
@@ -58,7 +58,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_3CB_Factions_CHC {
-        name = "Men (Chernarus Civilians (3CBF))";
+        name = "Men (Chernarus Civilians (3CB Factions))";
         picture = "";
         value = "Civ_CHC";
         defaultValue = "Civ_CHC";
@@ -87,7 +87,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_3CB_Factions_TKC {
-        name = "Men (Takistan Civilians (3CBF))";
+        name = "Men (Takistan Civilians (3CB Factions))";
         picture = "";
         value = "Civ_TKC";
         defaultValue = "Civ_TKC";
