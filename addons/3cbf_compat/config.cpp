@@ -33,7 +33,7 @@ class CfgPatches {
             "CivilianPresence_UK3CB_ADC_C_CIV_CHR_02",
             "CivilianPresence_UK3CB_ADC_C_HUNTER_CHR",
             "CivilianPresence_UK3CB_ADC_C_CIV_ISL_01",
-            "CivilianPresence_UK3CB_ADC_C_CIT",kw
+            "CivilianPresence_UK3CB_ADC_C_CIT",
             "CivilianPresence_UK3CB_ADC_C_COACH",
             "CivilianPresence_UK3CB_ADC_C_PROF",
             "CivilianPresence_UK3CB_ADC_C_VILL",
