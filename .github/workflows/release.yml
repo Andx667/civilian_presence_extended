@@ -36,12 +36,6 @@ jobs:
         - name: Checkout the source code
           uses: actions/checkout@v2
 
-        - name: Update script_version.hpp from Github release tag
-          shell: pwsh
-          run: |
-            & "${{ github.workspace }}/tools/update-version.ps1" `
-              -Version "${{ github.event.release.tag_name }}"
-
         - name: Setup HEMTT
           uses: arma-actions/hemtt@v1
 
