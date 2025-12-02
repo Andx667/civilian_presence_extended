@@ -1,6 +1,6 @@
-name = "Civilian Presence Extension";
+name = "Civlian Presence Extended";
 
-author = "AWX Team";
+author = "Andx";
 
 // --- Expansions Menu ---
 // Picture displayed from the expansions menu. Optimal size is 2048x1024
@@ -10,8 +10,8 @@ picture             = "";
 overview            = "";
 
 overviewPicture     = "";                             // Where?
-overviewText        = "Civilian Presence Extension";         // Where?
-overviewFootnote    = "Civilian Presence Extension";     // Where?
+overviewText        = "Civlian Presence Extended";         // Where?
+overviewFootnote    = "Civlian Presence Extended";     // Where?
 
 // Action Button, Label/Tooltip
 actionName  = "";
@@ -29,11 +29,11 @@ logo        = "";
 // When the mouse is over, in the main menu 128x128
 logoOver    = "";
 // Tooltip when hovering over the Logo
-tooltip         = "ACE Wardrobe Extended";
+tooltip         = "Civlian Presence Extended";
 
 // Tool tip displayed when the mouse is left over, in the main menu
-description     = "Civilian Presence Extension";      // Where?
-tooltipOwned    = "Civilian Presence Extension";            // Where?
+description     = "Civlian Presence Extended";      // Where?
+tooltipOwned    = "Civlian Presence Extended";            // Where?
 
 
 // --- Misc. ---

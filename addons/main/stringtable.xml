@@ -2,7 +2,7 @@
 <Project name="CPX">
     <Package name="Main">
         <Key ID="STR_CPX_Main_mod_URL">
-            <English></English>
+            <English>https://github.com/Andx667/civilian_presence_extended</English>
         </Key>
         <Key ID="STR_CPX_Main_mod_author">
             <English>CPX Team</English>
