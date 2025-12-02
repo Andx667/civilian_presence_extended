@@ -15,8 +15,8 @@
 name: Release
 
 env:
-  FOLDER:  '@civilian_presence_extended'
-  WORKSHOPID: '3616821739'
+  FOLDER:  '@cpx'
+  WORKSHOPID: '3616827003'
   WORKSHOPNAME: 'Civlian Presence Extended'
 
 on:
@@ -41,14 +41,6 @@ jobs:
           run: |
             & "${{ github.workspace }}/tools/update-version.ps1" `
               -Version "${{ github.event.release.tag_name }}"
-
-        - name: Create meta.cpp for Steam Workshop
-          shell: pwsh
-          run: |
-            & "${{ github.workspace }}/tools/create-meta-cpp.ps1" `
-              -FilePath "${{ github.workspace }}/meta.cpp" `
-              -PublishedId "${{ env.WORKSHOPID }}" `
-              -ModName "${{ env.WORKSHOPNAME }}"
 
         - name: Setup HEMTT
           uses: arma-actions/hemtt@v1
