@@ -1,6 +1,6 @@
 # Civilian Presence Extended
 
-Adds the following Civlian Factions to the Arma 3 Civlian Presence Module:
+Adds the following Civilian Factions to the Arma 3 Civilian Presence Module:
 
 3CB Factions
 
@@ -9,5 +9,5 @@ Adds the following Civlian Factions to the Arma 3 Civlian Presence Module:
 - Chernarus Civilians
 - Takistan Civilians
 
-Github: <https://github.com/Andx667/civilian_presence_extended>
+Github: <https://github.com/Andx667/civilian_presence_extended>  
 Steam Workshop:  <https://steamcommunity.com/sharedfiles/filedetails/?id=3616821739>

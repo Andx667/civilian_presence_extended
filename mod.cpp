@@ -1,4 +1,4 @@
-name = "Civlian Presence Extended";
+name = "Civilian Presence Extended";
 
 author = "Andx";
 
@@ -9,9 +9,9 @@ picture             = "";
 // Overview text, displayed from the extension menu
 overview            = "";
 
-overviewPicture     = "";                             // Where?
-overviewText        = "Civlian Presence Extended";         // Where?
-overviewFootnote    = "Civlian Presence Extended";     // Where?
+overviewPicture     = "img\logo_ca.paa";                             // Where?
+overviewText        = "Civilian Presence Extended";         // Where?
+overviewFootnote    = "Civilian Presence Extended";     // Where?
 
 // Action Button, Label/Tooltip
 actionName  = "";
@@ -25,15 +25,15 @@ hidePicture = "false";
 
 // --- Main Menu ---
 // Logo displayed in the main menu 128x128
-logo        = "";
+logo        = "img\logo_ca.paa";
 // When the mouse is over, in the main menu 128x128
-logoOver    = "";
+logoOver    = "img\logo_ca.paa";
 // Tooltip when hovering over the Logo
-tooltip         = "Civlian Presence Extended";
+tooltip         = "Civilian Presence Extended";
 
 // Tool tip displayed when the mouse is left over, in the main menu
-description     = "Civlian Presence Extended";      // Where?
-tooltipOwned    = "Civlian Presence Extended";            // Where?
+description     = "Civilian Presence Extended";      // Where?
+tooltipOwned    = "Civilian Presence Extended";            // Where?
 
 
 // --- Misc. ---
