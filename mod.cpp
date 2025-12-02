@@ -4,19 +4,19 @@ author = "Andx";
 
 // --- Expansions Menu ---
 // Picture displayed from the expansions menu. Optimal size is 2048x1024
-picture             = "";
+picture             = "img\logo_ca.paa";
 
 // Overview text, displayed from the extension menu
-overview            = "";
+overview            = "This mod extends the Civilian Presence system by adding new civilian variants from existing mods.";
 
 overviewPicture     = "img\logo_ca.paa";                             // Where?
 overviewText        = "Civilian Presence Extended";         // Where?
 overviewFootnote    = "Civilian Presence Extended";     // Where?
 
 // Action Button, Label/Tooltip
-actionName  = "";
+actionName  = "Github";
 // Action Button, Website URL
-action      = "";
+action      = "https://github.com/Andx667/civilian_presence_extended";
 // Hide the extension name
 hideName    = "false";
 // Hide the extension menu
@@ -38,7 +38,7 @@ tooltipOwned    = "Civilian Presence Extended";            // Where?
 
 // --- Misc. ---
 // Display next to the item added by the mod 64x64
-logoSmall   = "";
+logoSmall   = "img\logo_ca.paa";
 
 
 // --- DLC ---
