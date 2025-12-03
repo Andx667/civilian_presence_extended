@@ -1,6 +1,7 @@
 # Civilian Presence Extended
 
-[![HEMTT](https://github.com/Andx667/civilian_presence_extended/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/Andx667/civilian_presence_extended/actions/workflows/check.yml) ![Steam Downloads](https://img.shields.io/steam/downloads/:3616827003)
+[![HEMTT](https://github.com/Andx667/civilian_presence_extended/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/Andx667/civilian_presence_extended/actions/workflows/check.yml) ![Steam Downloads](https://img.shields.io/steam/downloads/:3616827003?logo=steam&label=Steam%20Workshop)
+
 
 
 Adds the following Civilian Factions to the Arma 3 Civilian Presence Module:
