@@ -50,14 +50,6 @@ jobs:
         - name: Zip release
           run: zip -r "${{ env.FOLDER }}-${{ env.VERSION }}.zip" ./${{ env.FOLDER }}-${{ env.VERSION }}
 
-        - name: Update Release with Files
-          uses: softprops/action-gh-release@v1
-          with:
-            files: ./${{ env.FOLDER }}-${{ env.VERSION }}.zip
-            draft: true
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
         - name: Update to Steam Workshop (stable)
           uses: arma-actions/workshop-upload@v1
           with:
