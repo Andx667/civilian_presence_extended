@@ -21,7 +21,7 @@ jobs:
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: releases/ttt-latest.zip
-        asset_name: ttt-$tag.zip
+        file: releases/cpx-latest.zip
+        asset_name: cpx-$tag.zip
         tag: ${{ github.ref }}
         overwrite: true
