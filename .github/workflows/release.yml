@@ -16,7 +16,7 @@ name: Release
 
 env:
   FOLDER:  '@cpx'
-  WORKSHOPID: '3616827003'
+  WORKSHOPID: '3617266753'
   WORKSHOPNAME: 'Civilian Presence Extended'
 
 on:
