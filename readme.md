@@ -17,6 +17,12 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 - Middle Eastern Civilians
 - Eastern European Civilians
 
+## CUP
+
+- Chernarus Civilians
+- Russian Civilians
+- Takistan Civilians
+
 ## Links
 
 - Github: <https://github.com/Andx667/civilian_presence_extended>
