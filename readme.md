@@ -13,7 +13,7 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 
 ## Project Opfor
 
-- African Civlians
+- African Civilians
 - Middle Eastern Civilians
 - Eastern European Civilians
 
