@@ -3,6 +3,9 @@ name: Attach PBO to Release
 on:
   release:
     types: [ "published" ]
+
+permissions:
+  contents: write
     
 jobs:
   release:

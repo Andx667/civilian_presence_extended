@@ -25,7 +25,6 @@ on:
 
 permissions:
   contents: write
-  releases: write
 
 jobs:
   release-addon:
