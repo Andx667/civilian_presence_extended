@@ -13,6 +13,6 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 
 ## Links
 
-Github: <https://github.com/Andx667/civilian_presence_extended>
-Steam Workshop:  <https://steamcommunity.com/sharedfiles/filedetails/?id=3616821739>
-Discord: <https://discord.com/channels/1422294842897203200/1445554176322175158>
+- Github: <https://github.com/Andx667/civilian_presence_extended>
+- Steam Workshop:  <https://steamcommunity.com/sharedfiles/filedetails/?id=3616821739>
+- Discord Discussion: <https://discord.com/channels/1422294842897203200/1445554176322175158>
