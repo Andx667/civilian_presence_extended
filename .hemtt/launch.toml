@@ -31,3 +31,12 @@ extends = "rhs"
 workshop = [
     "1673456286", # 3CB Factions Workshop ID
 ]
+
+[cup]
+extends = "default"
+workshop = [
+    "497660133", # CUP Weapons
+    "541888371", # CUP Vehicles
+    "497661914", # CUP Units
+    #"1369691841" # CFP
+]
