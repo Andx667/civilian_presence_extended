@@ -4,6 +4,10 @@
 
 Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if the respective base Mod is loaded:
 
+## Vanilla
+
+- IDAP
+
 ## 3CB Factions
 
 - African Desert Civilians
@@ -22,6 +26,15 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 - Chernarus Civilians
 - Russian Civilians
 - Takistan Civilians
+
+## Community Factions Project
+
+- Aghanistan (only contains 2 Units)
+- African Christian
+- African Islamic
+- Asian
+- Chernarus Winter (only contains 3 Units)
+- Middle East (only contains 2 Units)
 
 ## Links
 

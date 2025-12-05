@@ -1,4 +1,5 @@
 [default]
+mission = "test.Stratis"
 workshop = [    
     "450814997",  # CBA_A3's Workshop ID
     "463939057",  # ACE3's Workshop ID
@@ -38,5 +39,10 @@ workshop = [
     "497660133", # CUP Weapons
     "541888371", # CUP Vehicles
     "497661914", # CUP Units
-    #"1369691841" # CFP
+]
+
+[cfp]
+extends = "cup"
+workshop = [
+    "1369691841" # CFP
 ]
