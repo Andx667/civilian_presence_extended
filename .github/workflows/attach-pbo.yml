@@ -1,11 +1,11 @@
-name: Attach PBO to Release
+name: Upload Release
+
+permissions:
+  contents: write
 
 on:
   release:
     types: [ "published" ]
-
-permissions:
-  contents: write
     
 jobs:
   release:
