@@ -42,7 +42,8 @@ class CfgPatches {
             "CivilianPresence_C_IDAP_Man_UAV_01_F",
             "CivilianPresence_C_IDAP_Man_UAV_06_F",
             "CivilianPresence_C_IDAP_Man_UAV_06_antimine_F",
-            "CivilianPresence_C_IDAP_Man_UAV_06_medical_F"
+            "CivilianPresence_C_IDAP_Man_UAV_06_medical_F",
+            "CivilianPresence_C_Story_EOD_01_F"
         };
 
         // List of weapons (CfgWeapons classes) contained in the addon.

@@ -23,7 +23,8 @@ class CivilianPresence_Presets {
                 "C_IDAP_Man_UAV_06_antimine_F",
                 "C_IDAP_Man_UAV_01_F",
                 "C_IDAP_Man_UAV_06_F",
-                "C_IDAP_Man_UAV_06_medical_F"
+                "C_IDAP_Man_UAV_06_medical_F",
+                "C_Story_EOD_01_F"
             };
         };
     };

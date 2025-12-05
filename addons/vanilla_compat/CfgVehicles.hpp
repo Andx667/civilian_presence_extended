@@ -16,4 +16,5 @@ class CfgVehicles {
     CREATE_AGENT(C_IDAP_Man_UAV_06_F);
     CREATE_AGENT(C_IDAP_Man_UAV_06_antimine_F);
     CREATE_AGENT(C_IDAP_Man_UAV_06_medical_F);
+    CREATE_AGENT(C_Story_EOD_01_F);
 };
