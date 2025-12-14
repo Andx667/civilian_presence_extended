@@ -1,0 +1,35 @@
+class CfgVehicles {
+    //Vietnamese Civilians
+    CREATE_AGENT(vn_c_men_01);
+    CREATE_AGENT(vn_c_men_02);
+    CREATE_AGENT(vn_c_men_03);
+    CREATE_AGENT(vn_c_men_04);
+    CREATE_AGENT(vn_c_men_05);
+    CREATE_AGENT(vn_c_men_06);
+    CREATE_AGENT(vn_c_men_07);
+    CREATE_AGENT(vn_c_men_08);
+    CREATE_AGENT(vn_c_men_09);
+    CREATE_AGENT(vn_c_men_10);
+    CREATE_AGENT(vn_c_men_11);
+    CREATE_AGENT(vn_c_men_12);
+    CREATE_AGENT(vn_c_men_13);
+    CREATE_AGENT(vn_c_men_14);
+    CREATE_AGENT(vn_c_men_15);
+    CREATE_AGENT(vn_c_men_16);
+    CREATE_AGENT(vn_c_men_17);
+    CREATE_AGENT(vn_c_men_18);
+    CREATE_AGENT(vn_c_men_19);
+    CREATE_AGENT(vn_c_men_20);
+    CREATE_AGENT(vn_c_men_21);
+    CREATE_AGENT(vn_c_men_22);
+    CREATE_AGENT(vn_c_men_23);
+    CREATE_AGENT(vn_c_men_24);
+    CREATE_AGENT(vn_c_men_25);
+    CREATE_AGENT(vn_c_men_26);
+    CREATE_AGENT(vn_c_men_27);
+    CREATE_AGENT(vn_c_men_28);
+    CREATE_AGENT(vn_c_men_29);
+    CREATE_AGENT(vn_c_men_30);
+    CREATE_AGENT(vn_c_men_31);
+    CREATE_AGENT(vn_c_men_32);
+};
