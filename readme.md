@@ -36,14 +36,18 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 - Chernarus Winter (only contains 3 Units)
 - Middle East (only contains 2 Units)
 
-## CDLC GLobal Mobilization
+## CDLC Global Mobilization
 
 - East Germany
 - West Germany (includes some plain East Germans to bulk up the numbers)
 
-## CDLC S.O.G Prarie Fire
+## CDLC S.O.G Prairie Fire
 
-- Veitnamese
+- Vietnamese
+
+## CDLC CSLA Iron Curtain
+
+- Czechoslovakia
 
 ## Links
 
