@@ -36,6 +36,11 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 - Chernarus Winter (only contains 3 Units)
 - Middle East (only contains 2 Units)
 
+## CDLC GLobal Mobilization
+
+- East Germany
+- West Germany (includes some plain East Germans to bulk up the numbers)
+
 ## Links
 
 - Github: <https://github.com/Andx667/civilian_presence_extended>
