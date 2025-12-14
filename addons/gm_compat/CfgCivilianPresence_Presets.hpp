@@ -31,7 +31,18 @@ class CivilianPresence_Presets {
 
         class UnitTypes {
             bis_units[] = {
-                "gm_ge_ff_man_80_orn",
+                //Actually East Germans
+                "gm_gc_civ_man_01_80_blk",
+                "gm_gc_civ_man_01_80_blu",
+                "gm_gc_civ_man_02_80_brn",
+                "gm_gc_civ_man_02_80_gry",
+                "gm_gc_civ_man_03_80_blu",
+                "gm_gc_civ_man_03_80_grn",
+                "gm_gc_civ_man_03_80_gry",
+                "gm_gc_civ_man_04_80_blu",
+                "gm_gc_civ_man_04_80_gry",
+                //True West Germans
+                //"gm_ge_ff_man_80_orn",
                 "gm_ge_dbp_man_01_80_blu",
                 //"gm_ge_pol_pilot_p1_80_grn",
                 //"gm_ge_adak_pilot_80_sar",
