@@ -1,0 +1,27 @@
+class CfgVehicles {
+    //CSLA Civilians
+    CREATE_AGENT(CSLA_CIV_Citizen);
+    CREATE_AGENT(CSLA_CIV_Citizen_V2);
+    CREATE_AGENT(CSLA_CIV_Citizen_V3);
+    CREATE_AGENT(CSLA_CIV_Citizen_V4);
+    CREATE_AGENT(CSLA_CIV_Doctor);
+    CREATE_AGENT(CSLA_CIV_Foreman);
+    CREATE_AGENT(CSLA_CIV_Foreman_V2);
+    CREATE_AGENT(CSLA_CIV_Functionary);
+    CREATE_AGENT(CSLA_CIV_Functionary_V2);
+    CREATE_AGENT(CSLA_CIV_PoliceManCrw);
+    CREATE_AGENT(CSLA_CIV_Policeman);
+    CREATE_AGENT(CSLA_CIV_PoliceManSa61);
+    CREATE_AGENT(CSLA_CIV_Villager);
+    CREATE_AGENT(CSLA_CIV_Villager_V2);
+    CREATE_AGENT(CSLA_CIV_Villager_V3);
+    CREATE_AGENT(CSLA_CIV_Villager_V4);
+    CREATE_AGENT(CSLA_CIV_Woodlander);
+    CREATE_AGENT(CSLA_CIV_Woodlander_V2);
+    CREATE_AGENT(CSLA_CIV_Woodlander_V3);
+    CREATE_AGENT(CSLA_CIV_Woodlander_V4);
+    CREATE_AGENT(CSLA_CIV_Worker);
+    CREATE_AGENT(CSLA_CIV_Worker_V2);
+    CREATE_AGENT(CSLA_CIV_Worker_V3);
+    CREATE_AGENT(CSLA_CIV_Worker_V4);
+};
