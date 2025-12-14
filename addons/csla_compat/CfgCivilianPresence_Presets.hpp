@@ -2,7 +2,7 @@ class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_CSLA {
         name = "Men (Czechoslovakia (CSLA))";
-        picture = "\CSLA_misc\signs\flags\flag_CSSR_co.paa";
+        picture = "\CSLA_FIA_cfg\images\FIA_logo.paa";
         value = "CIV_CSLA";
         defaultValue = "CIV_CSLA";
 
