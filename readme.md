@@ -49,6 +49,10 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 
 - Czechoslovakia
 
+## Spearhead 1944
+
+Already has support for Civilian Presence Modules and there are no plan to integrate the CDLC in this mod.
+
 ## Links
 
 - Github: <https://github.com/Andx667/civilian_presence_extended>
