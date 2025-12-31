@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="cfp_compat">
+        <Key ID="STR_cpx_cfp_compat_AFG_Name">
+            <English>Civilians (Afghanistan (CFP))</English>
+        </Key>
+        <Key ID="STR_cpx_cfp_compat_AFRCHRISTIAN_Name">
+            <English>Civilians (African Christian (CFP))</English>
+        </Key>
+        <Key ID="STR_cpx_cfp_compat_AFRISLAMIC_Name">
+            <English>Civilians (African Islamic (CFP))</English>
+        </Key>
+        <Key ID="STR_cpx_cfp_compat_ASIA_Name">
+            <English>Civilians (Asian (CFP))</English>
+        </Key>
+        <Key ID="STR_cpx_cfp_compat_CHERNO_WIN_Name">
+            <English>Civilians (Chernarus Winter (CFP))</English>
+        </Key>
+        <Key ID="STR_cpx_cfp_compat_ME_Name">
+            <English>Civilians (Middel East (CFP))</English>
+        </Key>
+    </Package>
+</Project>

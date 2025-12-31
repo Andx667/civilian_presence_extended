@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="3cbf_compat">
+        <Key ID="STR_cpx_3cbf_compat_ADC_Name">
+            <English>Men (African Desert Civilians (3CB Factions))</English>
+        </Key>
+        <Key ID="STR_cpx_3cbf_compat_CHC_Name">
+            <English>Men (Chernarus Civilians (3CB Factions))</English>
+        </Key>
+        <Key ID="STR_cpx_3cbf_compat_MEC_Name">
+            <English>Men (Middle Eastern Civilians (3CB Factions))</English>
+        </Key>
+        <Key ID="STR_cpx_3cbf_compat_TKC_Name">
+            <English>Men (Takistan Civilians (3CB Factions))</English>
+        </Key>
+    </Package>
+</Project>

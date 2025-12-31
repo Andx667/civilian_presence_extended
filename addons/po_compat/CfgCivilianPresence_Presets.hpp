@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_LOF_AFR {
-        name = "Men (African (Project Opfor))";
+        name = CSTRING(AFR_Name);
         picture = "\po_main\data\fac\cfgfactionclasses_afrciv_ca.paa";
         value = "CIV_LOF_AFR";
         defaultValue = "CIV_LOF_AFR";
@@ -25,11 +25,11 @@ class CivilianPresence_Presets {
     };
 
     class CIV_LOF_TAK {
-        name = "Men (Middle Eastern (Project Opfor))";
+        name = CSTRING(TAK_Name);
         picture = "\po_main\data\fac\cfgfactionclasses_aa_ca.paa";
         value = "CIV_LOF_TAK";
         defaultValue = "CIV_LOF_TAK";
-        
+
         class UnitTypes {
             bis_units[] = {
                 "LOP_Tak_Civ_Man_01",
@@ -51,13 +51,13 @@ class CivilianPresence_Presets {
             };
         };
     };
-    
+
     class CIV_LOF_CHR {
-        name = "Men (Eastern European (Project Opfor))";
+        name = CSTRING(CHR_Name);
         picture = "\po_main\data\fac\cfgfactionclasses_cdf_ca.paa";
         value = "CIV_LOF_CHR";
         defaultValue = "CIV_LOF_CHR";
-        
+
         class UnitTypes {
             bis_units[] = {
                 "LOP_CHR_Civ_Assistant",

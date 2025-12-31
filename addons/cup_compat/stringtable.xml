@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="cup_compat">
+        <Key ID="STR_cpx_cup_compat_C_Name">
+            <English>Men (Chernarus (CUP))</English>
+        </Key>
+        <Key ID="STR_cpx_cup_compat_R_Name">
+            <English>Men (Russian (CUP))</English>
+        </Key>
+        <Key ID="STR_cpx_cup_compat_TK_Name">
+            <English>Men (Takistan (CUP))</English>
+        </Key>
+    </Package>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="po_compat">
+        <Key ID="STR_cpx_po_compat_AFR_Name">
+            <English>Men (African (Project Opfor))</English>
+        </Key>
+        <Key ID="STR_cpx_po_compat_CHR_Name">
+            <English>Men (Eastern European (Project Opfor))</English>
+        </Key>
+        <Key ID="STR_cpx_po_compat_TAK_Name">
+            <English>Men (Middle Eastern (Project Opfor))</English>
+        </Key>
+    </Package>
+</Project>

@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_CFP_AFG {
-        name = "Civilians (Afghanistan (CFP))";
+        name = CSTRING(AFG_Name);
         picture = "\x\cfp\addons\flags\Afghanistan\Afghanistan.paa";
         value = "CIV_CFP_AFG";
         defaultValue = "CIV_CFP_AFG";
@@ -15,7 +15,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CFP_AFRCHRISTIAN {
-        name = "Civilians (African Christian (CFP))";
+        name = CSTRING(AFRCHRISTIAN_Name);
         picture = "\A3\ui_f\data\map\markers\flags\nato_ca.paa";
         value = "CIV_CFP_AFRCHRISTIAN";
         defaultValue = "CIV_CFP_AFRCHRISTIAN";
@@ -41,7 +41,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CFP_AFRISLAMIC {
-        name = "Civilians (African Islamic (CFP))";
+        name = CSTRING(AFRISLAMIC_Name);
         picture = "\A3\ui_f\data\map\markers\flags\Tanoa_ca.paa";
         value = "CIV_CFP_AFRISLAMIC";
         defaultValue = "CIV_CFP_AFRISLAMIC";
@@ -65,7 +65,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CFP_ASIA {
-        name = "Civilians (Asian (CFP))";
+        name = CSTRING(ASIA_Name);
         picture = "\A3\ui_f\data\map\markers\flags\nato_ca.paa";
         value = "CIV_CFP_ASIA";
         defaultValue = "CIV_CFP_ASIA";
@@ -89,7 +89,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CFP_CHERNO_WIN {
-        name = "Civilians (Chernarus Winter (CFP))";
+        name = CSTRING(CHERNO_WIN_Name);
         picture = "\A3\ui_f\data\map\markers\flags\nato_ca.paa";
         value = "CIV_CFP_CHERNO_WIN";
         defaultValue = "CIV_CFP_CHERNO_WIN";
@@ -104,7 +104,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CFP_ME {
-        name = "Civilians (Middel East (CFP))";
+        name = CSTRING(ME_Name);
         picture = "\A3\ui_f\data\map\markers\flags\nato_ca.paa";
         value = "CIV_CFP_ME";
         defaultValue = "CIV_CFP_ME";
@@ -117,6 +117,3 @@ class CivilianPresence_Presets {
         };
     };
 };
-
-
-

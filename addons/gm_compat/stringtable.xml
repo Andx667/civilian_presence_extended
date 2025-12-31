@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="gm_compat">
+        <Key ID="STR_cpx_gm_compat_GC_Name">
+            <English>Men (East Germany (GM))</English>
+        </Key>
+        <Key ID="STR_cpx_gm_compat_GE_Name">
+            <English>Men (West Germany (GM))</English>
+        </Key>
+    </Package>
+</Project>

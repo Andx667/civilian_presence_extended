@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_GM_GC {
-        name = "Men (East Germany (GM))";
+        name = CSTRING(GC_Name);
         picture = "\gm\gm_core\data\flags\gm_flag_gc_co.paa";
         value = "CIV_GM_GC";
         defaultValue = "CIV_GM_GC";
@@ -24,7 +24,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_GM_GE {
-        name = "Men (West Germany (GM))";
+        name = CSTRING(GE_Name);
         picture = "\gm\gm_core\data\flags\gm_flag_ge_co.paa";
         value = "CIV_GM_GE";
         defaultValue = "CIV_GM_GE";

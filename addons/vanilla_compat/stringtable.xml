@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="vanilla_compat">
+        <Key ID="STR_cpx_vanilla_compat_IDAP_Name">
+            <English>Men (IDAP)</English>
+        </Key>
+    </Package>
+</Project>

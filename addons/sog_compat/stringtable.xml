@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="sog_compat">
+        <Key ID="STR_cpx_sog_compat_VN_Name">
+            <English>Men (Vietnam (SOG))</English>
+        </Key>
+    </Package>
+</Project>

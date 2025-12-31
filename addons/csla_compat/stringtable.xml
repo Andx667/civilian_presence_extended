@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cpx">
+    <Package name="csla_compat">
+        <Key ID="STR_cpx_csla_compat_CSLA_Name">
+            <English>Men (Czechoslovakia (CSLA))</English>
+        </Key>
+    </Package>
+</Project>
