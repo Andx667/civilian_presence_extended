@@ -3,12 +3,81 @@
     <Package name="cup_compat">
         <Key ID="STR_cpx_cup_compat_C_Name">
             <English>Men (Chernarus (CUP))</English>
+            <Czech>Muži (Chernarus (CUP))</Czech>
+            <French>Hommes (Chernarus (CUP))</French>
+            <Spanish>Hombres (Chernarus (CUP))</Spanish>
+            <Italian>Uomini (Chernarus (CUP))</Italian>
+            <Polish>Mężczyźni (Chernarus (CUP))</Polish>
+            <Portuguese>Homens (Chernarus (CUP))</Portuguese>
+            <Russian>Мужчины (Чернарус (CUP))</Russian>
+            <German>Männer (Chernarus (CUP))</German>
+            <Korean>남성 (체르나루스 (CUP))</Korean>
+            <Japanese>男性 (チェルナルス (CUP))</Japanese>
+            <Chinese>男性 (車臣 (CUP))</Chinese>
+            <Chinesesimp>男性 (车臣 (CUP))</Chinesesimp>
+            <Turkish>Erkekler (Chernarus (CUP))</Turkish>
+            <Hungarian>Férfiak (Chernarus (CUP))</Hungarian>
+            <Swedish>Män (Chernarus (CUP))</Swedish>
+            <Slovak>Muži (Chernarus (CUP))</Slovak>
+            <SerboCroatian>Muškarci (Chernarus (CUP))</SerboCroatian>
+            <Norwegian>Menn (Chernarus (CUP))</Norwegian>
+            <Icelandic>Karlar (Chernarus (CUP))</Icelandic>
+            <Greek>Άνδρες (Chernarus (CUP))</Greek>
+            <Finnish>Miehet (Chernarus (CUP))</Finnish>
+            <Dutch>Mannen (Chernarus (CUP))</Dutch>
+            <Ukrainian>Чоловіки (Чернарус (CUP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cup_compat_R_Name">
             <English>Men (Russian (CUP))</English>
+            <Czech>Muži (Ruští (CUP))</Czech>
+            <French>Hommes (Russes (CUP))</French>
+            <Spanish>Hombres (Rusos (CUP))</Spanish>
+            <Italian>Uomini (Russi (CUP))</Italian>
+            <Polish>Mężczyźni (Rosyjscy (CUP))</Polish>
+            <Portuguese>Homens (Russos (CUP))</Portuguese>
+            <Russian>Мужчины (Российские (CUP))</Russian>
+            <German>Männer (Russisch (CUP))</German>
+            <Korean>남성 (러시아 (CUP))</Korean>
+            <Japanese>男性 (ロシア (CUP))</Japanese>
+            <Chinese>男性 (俄羅斯 (CUP))</Chinese>
+            <Chinesesimp>男性 (俄罗斯 (CUP))</Chinesesimp>
+            <Turkish>Erkekler (Rus (CUP))</Turkish>
+            <Hungarian>Férfiak (Orosz (CUP))</Hungarian>
+            <Swedish>Män (Ryska (CUP))</Swedish>
+            <Slovak>Muži (Ruskí (CUP))</Slovak>
+            <SerboCroatian>Muškarci (Ruski (CUP))</SerboCroatian>
+            <Norwegian>Menn (Russiske (CUP))</Norwegian>
+            <Icelandic>Karlar (Rússar (CUP))</Icelandic>
+            <Greek>Άνδρες (Ρώσοι (CUP))</Greek>
+            <Finnish>Miehet (Venäläiset (CUP))</Finnish>
+            <Dutch>Mannen (Russisch (CUP))</Dutch>
+            <Ukrainian>Чоловіки (Російські (CUP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cup_compat_TK_Name">
             <English>Men (Takistan (CUP))</English>
+            <Czech>Muži (Takistán (CUP))</Czech>
+            <French>Hommes (Takistan (CUP))</French>
+            <Spanish>Hombres (Takistán (CUP))</Spanish>
+            <Italian>Uomini (Takistan (CUP))</Italian>
+            <Polish>Mężczyźni (Takistan (CUP))</Polish>
+            <Portuguese>Homens (Takistão (CUP))</Portuguese>
+            <Russian>Мужчины (Такистан (CUP))</Russian>
+            <German>Männer (Takistan (CUP))</German>
+            <Korean>남성 (타키스탄 (CUP))</Korean>
+            <Japanese>男性 (タキスタン (CUP))</Japanese>
+            <Chinese>男性 (塔吉斯坦 (CUP))</Chinese>
+            <Chinesesimp>男性 (塔吉斯坦 (CUP))</Chinesesimp>
+            <Turkish>Erkekler (Takistan (CUP))</Turkish>
+            <Hungarian>Férfiak (Takisztán (CUP))</Hungarian>
+            <Swedish>Män (Takistan (CUP))</Swedish>
+            <Slovak>Muži (Takistan (CUP))</Slovak>
+            <SerboCroatian>Muškarci (Takistan (CUP))</SerboCroatian>
+            <Norwegian>Menn (Takistan (CUP))</Norwegian>
+            <Icelandic>Karlar (Takistan (CUP))</Icelandic>
+            <Greek>Άνδρες (Takistan (CUP))</Greek>
+            <Finnish>Miehet (Takistan (CUP))</Finnish>
+            <Dutch>Mannen (Takistan (CUP))</Dutch>
+            <Ukrainian>Чоловіки (Такистан (CUP))</Ukrainian>
         </Key>
     </Package>
 </Project>

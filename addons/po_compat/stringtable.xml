@@ -3,12 +3,81 @@
     <Package name="po_compat">
         <Key ID="STR_cpx_po_compat_AFR_Name">
             <English>Men (African (Project Opfor))</English>
+            <Czech>Muži (Afričtí (Project Opfor))</Czech>
+            <French>Hommes (Africains (Project Opfor))</French>
+            <Spanish>Hombres (Africanos (Project Opfor))</Spanish>
+            <Italian>Uomini (Africani (Project Opfor))</Italian>
+            <Polish>Mężczyźni (Afrykańscy (Project Opfor))</Polish>
+            <Portuguese>Homens (Africanos (Project Opfor))</Portuguese>
+            <Russian>Мужчины (Африканцы (Project Opfor))</Russian>
+            <German>Männer (Afrikanisch (Project Opfor))</German>
+            <Korean>남성 (아프리카 (Project Opfor))</Korean>
+            <Japanese>男性 (アフリカ (Project Opfor))</Japanese>
+            <Chinese>男性 (非洲 (Project Opfor))</Chinese>
+            <Chinesesimp>男性 (非洲 (Project Opfor))</Chinesesimp>
+            <Turkish>Erkekler (Afrika (Project Opfor))</Turkish>
+            <Hungarian>Férfiak (Afrikai (Project Opfor))</Hungarian>
+            <Swedish>Män (Afrikanska (Project Opfor))</Swedish>
+            <Slovak>Muži (Africkí (Project Opfor))</Slovak>
+            <SerboCroatian>Muškarci (Afrički (Project Opfor))</SerboCroatian>
+            <Norwegian>Menn (Afrikanske (Project Opfor))</Norwegian>
+            <Icelandic>Karlar (Afrískir (Project Opfor))</Icelandic>
+            <Greek>Άνδρες (Αφρικανοί (Project Opfor))</Greek>
+            <Finnish>Miehet (Afrikkalaiset (Project Opfor))</Finnish>
+            <Dutch>Mannen (Afrikaans (Project Opfor))</Dutch>
+            <Ukrainian>Чоловіки (Африканці (Project Opfor))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_po_compat_CHR_Name">
             <English>Men (Eastern European (Project Opfor))</English>
+            <Czech>Muži (Východoevropští (Project Opfor))</Czech>
+            <French>Hommes (Européens de l'Est (Project Opfor))</French>
+            <Spanish>Hombres (Europeos del Este (Project Opfor))</Spanish>
+            <Italian>Uomini (Europei orientali (Project Opfor))</Italian>
+            <Polish>Mężczyźni (Wschodnioeuropejscy (Project Opfor))</Polish>
+            <Portuguese>Homens (Europeus do Leste (Project Opfor))</Portuguese>
+            <Russian>Мужчины (Восточноевропейские (Project Opfor))</Russian>
+            <German>Männer (Osteuropäisch (Project Opfor))</German>
+            <Korean>남성 (동유럽 (Project Opfor))</Korean>
+            <Japanese>男性 (東ヨーロッパ (Project Opfor))</Japanese>
+            <Chinese>男性 (東歐 (Project Opfor))</Chinese>
+            <Chinesesimp>男性 (东欧 (Project Opfor))</Chinesesimp>
+            <Turkish>Erkekler (Doğu Avrupa (Project Opfor))</Turkish>
+            <Hungarian>Férfiak (Kelet-európai (Project Opfor))</Hungarian>
+            <Swedish>Män (Östeuropéer (Project Opfor))</Swedish>
+            <Slovak>Muži (Východoeurópski (Project Opfor))</Slovak>
+            <SerboCroatian>Muškarci (Istočnoevropski (Project Opfor))</SerboCroatian>
+            <Norwegian>Menn (Øst-europeiske (Project Opfor))</Norwegian>
+            <Icelandic>Karlar (Austur-Evrópskir (Project Opfor))</Icelandic>
+            <Greek>Άνδρες (Ανατολικοευρωπαίοι (Project Opfor))</Greek>
+            <Finnish>Miehet (Itä-eurooppalaiset (Project Opfor))</Finnish>
+            <Dutch>Mannen (Oost-Europees (Project Opfor))</Dutch>
+            <Ukrainian>Чоловіки (Східноєвропейські (Project Opfor))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_po_compat_TAK_Name">
             <English>Men (Middle Eastern (Project Opfor))</English>
+            <Czech>Muži (Blízkovýchodní (Project Opfor))</Czech>
+            <French>Hommes (Moyen-orientaux (Project Opfor))</French>
+            <Spanish>Hombres (Medio Orientales (Project Opfor))</Spanish>
+            <Italian>Uomini (Mediorientali (Project Opfor))</Italian>
+            <Polish>Mężczyźni (Bliskowschodni (Project Opfor))</Polish>
+            <Portuguese>Homens (Oriente Médio (Project Opfor))</Portuguese>
+            <Russian>Мужчины (Ближневосточные (Project Opfor))</Russian>
+            <German>Männer (Nahöstlich (Project Opfor))</German>
+            <Korean>남성 (중동 (Project Opfor))</Korean>
+            <Japanese>男性 (中東 (Project Opfor))</Japanese>
+            <Chinese>男性 (中東 (Project Opfor))</Chinese>
+            <Chinesesimp>男性 (中东 (Project Opfor))</Chinesesimp>
+            <Turkish>Erkekler (Orta Doğu (Project Opfor))</Turkish>
+            <Hungarian>Férfiak (Közel-keleti (Project Opfor))</Hungarian>
+            <Swedish>Män (Mellanöstern (Project Opfor))</Swedish>
+            <Slovak>Muži (Blízkovýchodní (Project Opfor))</Slovak>
+            <SerboCroatian>Muškarci (Bliskoistočni (Project Opfor))</SerboCroatian>
+            <Norwegian>Menn (Midtøsten (Project Opfor))</Norwegian>
+            <Icelandic>Karlar (Mið-austurlenskir (Project Opfor))</Icelandic>
+            <Greek>Άνδρες (Μεσανατολικοί (Project Opfor))</Greek>
+            <Finnish>Miehet (Lähi-itäiset (Project Opfor))</Finnish>
+            <Dutch>Mannen (Midden-Oosters (Project Opfor))</Dutch>
+            <Ukrainian>Чоловіки (Близькосхідні (Project Opfor))</Ukrainian>
         </Key>
     </Package>
 </Project>

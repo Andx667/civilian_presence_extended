@@ -3,6 +3,29 @@
     <Package name="sog_compat">
         <Key ID="STR_cpx_sog_compat_VN_Name">
             <English>Men (Vietnam (SOG))</English>
+            <Czech>Muži (Vietnam (SOG))</Czech>
+            <French>Hommes (Vietnam (SOG))</French>
+            <Spanish>Hombres (Vietnam (SOG))</Spanish>
+            <Italian>Uomini (Vietnam (SOG))</Italian>
+            <Polish>Mężczyźni (Wietnam (SOG))</Polish>
+            <Portuguese>Homens (Vietnã (SOG))</Portuguese>
+            <Russian>Мужчины (Вьетнам (SOG))</Russian>
+            <German>Männer (Vietnam (SOG))</German>
+            <Korean>남성 (베트남 (SOG))</Korean>
+            <Japanese>男性 (ベトナム (SOG))</Japanese>
+            <Chinese>男性 (越南 (SOG))</Chinese>
+            <Chinesesimp>男性 (越南 (SOG))</Chinesesimp>
+            <Turkish>Erkekler (Vietnam (SOG))</Turkish>
+            <Hungarian>Férfiak (Vietnam (SOG))</Hungarian>
+            <Swedish>Män (Vietnam (SOG))</Swedish>
+            <Slovak>Muži (Vietnam (SOG))</Slovak>
+            <SerboCroatian>Muškarci (Vijetnam (SOG))</SerboCroatian>
+            <Norwegian>Menn (Vietnam (SOG))</Norwegian>
+            <Icelandic>Karlar (Víetnam (SOG))</Icelandic>
+            <Greek>Άνδρες (Βιετνάμ (SOG))</Greek>
+            <Finnish>Miehet (Vietnam (SOG))</Finnish>
+            <Dutch>Mannen (Vietnam (SOG))</Dutch>
+            <Ukrainian>Чоловіки (В'єтнам (SOG))</Ukrainian>
         </Key>
     </Package>
 </Project>

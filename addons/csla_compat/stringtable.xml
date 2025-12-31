@@ -3,6 +3,29 @@
     <Package name="csla_compat">
         <Key ID="STR_cpx_csla_compat_CSLA_Name">
             <English>Men (Czechoslovakia (CSLA))</English>
+            <Czech>Muži (Československo (CSLA))</Czech>
+            <French>Hommes (Tchécoslovaquie (CSLA))</French>
+            <Spanish>Hombres (Checoslovaquia (CSLA))</Spanish>
+            <Italian>Uomini (Cecoslovacchia (CSLA))</Italian>
+            <Polish>Mężczyźni (Czechosłowacja (CSLA))</Polish>
+            <Portuguese>Homens (Tchecoslováquia (CSLA))</Portuguese>
+            <Russian>Мужчины (Чехословакия (CSLA))</Russian>
+            <German>Männer (Tschechoslowakei (CSLA))</German>
+            <Korean>남성 (체코슬로바키아 (CSLA))</Korean>
+            <Japanese>男性 (チェコスロバキア (CSLA))</Japanese>
+            <Chinese>男性 (捷克斯洛伐克 (CSLA))</Chinese>
+            <Chinesesimp>男性 (捷克斯洛伐克 (CSLA))</Chinesesimp>
+            <Turkish>Erkekler (Çekoslovakya (CSLA))</Turkish>
+            <Hungarian>Férfiak (Csehszlovákia (CSLA))</Hungarian>
+            <Swedish>Män (Tjeckoslovakien (CSLA))</Swedish>
+            <Slovak>Muži (Československo (CSLA))</Slovak>
+            <SerboCroatian>Muškarci (Čehoslovačka (CSLA))</SerboCroatian>
+            <Norwegian>Menn (Tsjekkoslovakia (CSLA))</Norwegian>
+            <Icelandic>Karlar (Tékkóslóvakía (CSLA))</Icelandic>
+            <Greek>Άνδρες (Τσεχοσλοβακία (CSLA))</Greek>
+            <Finnish>Miehet (Tšekkoslovakia (CSLA))</Finnish>
+            <Dutch>Mannen (Tsjechoslowakije (CSLA))</Dutch>
+            <Ukrainian>Чоловіки (Чехословаччина (CSLA))</Ukrainian>
         </Key>
     </Package>
 </Project>

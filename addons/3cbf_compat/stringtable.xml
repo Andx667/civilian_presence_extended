@@ -3,15 +3,107 @@
     <Package name="3cbf_compat">
         <Key ID="STR_cpx_3cbf_compat_ADC_Name">
             <English>Men (African Desert Civilians (3CB Factions))</English>
+            <Czech>Muži (Afričtí pouštní civilisté (3CB Factions))</Czech>
+            <French>Hommes (Civils du désert africain (3CB Factions))</French>
+            <Spanish>Hombres (Civiles del desierto africano (3CB Factions))</Spanish>
+            <Italian>Uomini (Civili del deserto africano (3CB Factions))</Italian>
+            <Polish>Mężczyźni (Cywile afrykańskiej pustyni (3CB Factions))</Polish>
+            <Portuguese>Homens (Civis do deserto africano (3CB Factions))</Portuguese>
+            <Russian>Мужчины (Африканские пустынные гражданские (3CB Factions))</Russian>
+            <German>Männer (Afrikanische Wüstenzivilisten (3CB Factions))</German>
+            <Korean>남성 (아프리카 사막 민간인 (3CB Factions))</Korean>
+            <Japanese>男性 (アフリカ砂漠の民間人 (3CB Factions))</Japanese>
+            <Chinese>男性 (非洲沙漠平民 (3CB Factions))</Chinese>
+            <Chinesesimp>男性 (非洲沙漠平民 (3CB Factions))</Chinesesimp>
+            <Turkish>Erkekler (Afrika Çölü Sivilleri (3CB Factions))</Turkish>
+            <Hungarian>Férfiak (Afrikai sivatagi civilek (3CB Factions))</Hungarian>
+            <Swedish>Män (Afrikanska ökencivilister (3CB Factions))</Swedish>
+            <Slovak>Muži (Africkí púštni civilisti (3CB Factions))</Slovak>
+            <SerboCroatian>Muškarci (Afrički pustinjski civili (3CB Factions))</SerboCroatian>
+            <Norwegian>Menn (Afrikanske ørkensivilister (3CB Factions))</Norwegian>
+            <Icelandic>Karlar (Afríkskir eyðimerkurborgarar (3CB Factions))</Icelandic>
+            <Greek>Άνδρες (Αφρικανοί πολίτες της ερήμου (3CB Factions))</Greek>
+            <Finnish>Miehet (Afrikan aavikon siviilit (3CB Factions))</Finnish>
+            <Dutch>Mannen (Afrikaanse woestijnburgers (3CB Factions))</Dutch>
+            <Ukrainian>Чоловіки (Африканські пустельні цивільні (3CB Factions))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_3cbf_compat_CHC_Name">
             <English>Men (Chernarus Civilians (3CB Factions))</English>
+            <Czech>Muži (Civilisté Chernarusu (3CB Factions))</Czech>
+            <French>Hommes (Civils de Chernarus (3CB Factions))</French>
+            <Spanish>Hombres (Civiles de Chernarus (3CB Factions))</Spanish>
+            <Italian>Uomini (Civili di Chernarus (3CB Factions))</Italian>
+            <Polish>Mężczyźni (Cywile Chernarusu (3CB Factions))</Polish>
+            <Portuguese>Homens (Civis de Chernarus (3CB Factions))</Portuguese>
+            <Russian>Мужчины (Гражданские Чернаруси (3CB Factions))</Russian>
+            <German>Männer (Chernarus-Zivilisten (3CB Factions))</German>
+            <Korean>남성 (체르나루스 민간인 (3CB Factions))</Korean>
+            <Japanese>男性 (チェルナルス民間人 (3CB Factions))</Japanese>
+            <Chinese>男性 (車臣平民 (3CB Factions))</Chinese>
+            <Chinesesimp>男性 (车臣平民 (3CB Factions))</Chinesesimp>
+            <Turkish>Erkekler (Chernarus Sivilleri (3CB Factions))</Turkish>
+            <Hungarian>Férfiak (Chernarus civilek (3CB Factions))</Hungarian>
+            <Swedish>Män (Chernarus-civilister (3CB Factions))</Swedish>
+            <Slovak>Muži (Civilisti Chernarusu (3CB Factions))</Slovak>
+            <SerboCroatian>Muškarci (Chernarus civili (3CB Factions))</SerboCroatian>
+            <Norwegian>Menn (Chernarus-sivilister (3CB Factions))</Norwegian>
+            <Icelandic>Karlar (Chernarus borgarar (3CB Factions))</Icelandic>
+            <Greek>Άνδρες (Πολίτες του Chernarus (3CB Factions))</Greek>
+            <Finnish>Miehet (Chernarusin siviilit (3CB Factions))</Finnish>
+            <Dutch>Mannen (Chernarus-burgers (3CB Factions))</Dutch>
+            <Ukrainian>Чоловіки (Цивільні Чернарусі (3CB Factions))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_3cbf_compat_MEC_Name">
             <English>Men (Middle Eastern Civilians (3CB Factions))</English>
+            <Czech>Muži (Blízkovýchodní civilisté (3CB Factions))</Czech>
+            <French>Hommes (Civils du Moyen-Orient (3CB Factions))</French>
+            <Spanish>Hombres (Civiles de Oriente Medio (3CB Factions))</Spanish>
+            <Italian>Uomini (Civili mediorientali (3CB Factions))</Italian>
+            <Polish>Mężczyźni (Cywile bliskowschodni (3CB Factions))</Polish>
+            <Portuguese>Homens (Civis do Oriente Médio (3CB Factions))</Portuguese>
+            <Russian>Мужчины (Ближневосточные гражданские (3CB Factions))</Russian>
+            <German>Männer (Nahöstliche Zivilisten (3CB Factions))</German>
+            <Korean>남성 (중동 민간인 (3CB Factions))</Korean>
+            <Japanese>男性 (中東の民間人 (3CB Factions))</Japanese>
+            <Chinese>男性 (中東平民 (3CB Factions))</Chinese>
+            <Chinesesimp>男性 (中东平民 (3CB Factions))</Chinesesimp>
+            <Turkish>Erkekler (Orta Doğu Sivilleri (3CB Factions))</Turkish>
+            <Hungarian>Férfiak (Közel-keleti civilek (3CB Factions))</Hungarian>
+            <Swedish>Män (Mellanösterncivilister (3CB Factions))</Swedish>
+            <Slovak>Muži (Blízkovýchodní civilisti (3CB Factions))</Slovak>
+            <SerboCroatian>Muškarci (Bliskoistočni civili (3CB Factions))</SerboCroatian>
+            <Norwegian>Menn (Midtøsten-sivilister (3CB Factions))</Norwegian>
+            <Icelandic>Karlar (Mið-austurborgarar (3CB Factions))</Icelandic>
+            <Greek>Άνδρες (Πολίτες της Μέσης Ανατολής (3CB Factions))</Greek>
+            <Finnish>Miehet (Lähi-idän siviilit (3CB Factions))</Finnish>
+            <Dutch>Mannen (Midden-Oosterse burgers (3CB Factions))</Dutch>
+            <Ukrainian>Чоловіки (Близькосхідні цивільні (3CB Factions))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_3cbf_compat_TKC_Name">
             <English>Men (Takistan Civilians (3CB Factions))</English>
+            <Czech>Muži (Civilisté Takistánu (3CB Factions))</Czech>
+            <French>Hommes (Civils du Takistan (3CB Factions))</French>
+            <Spanish>Hombres (Civiles de Takistán (3CB Factions))</Spanish>
+            <Italian>Uomini (Civili del Takistan (3CB Factions))</Italian>
+            <Polish>Mężczyźni (Cywile Takistanu (3CB Factions))</Polish>
+            <Portuguese>Homens (Civis do Takistão (3CB Factions))</Portuguese>
+            <Russian>Мужчины (Гражданские Такистана (3CB Factions))</Russian>
+            <German>Männer (Takistan-Zivilisten (3CB Factions))</German>
+            <Korean>남성 (타키스탄 민간인 (3CB Factions))</Korean>
+            <Japanese>男性 (タキスタン民間人 (3CB Factions))</Japanese>
+            <Chinese>男性 (塔吉斯坦平民 (3CB Factions))</Chinese>
+            <Chinesesimp>男性 (塔吉斯坦平民 (3CB Factions))</Chinesesimp>
+            <Turkish>Erkekler (Takistan Sivilleri (3CB Factions))</Turkish>
+            <Hungarian>Férfiak (Takisztáni civilek (3CB Factions))</Hungarian>
+            <Swedish>Män (Takistan-civilister (3CB Factions))</Swedish>
+            <Slovak>Muži (Civilisti Takistanu (3CB Factions))</Slovak>
+            <SerboCroatian>Muškarci (Takistan civili (3CB Factions))</SerboCroatian>
+            <Norwegian>Menn (Takistan-sivilister (3CB Factions))</Norwegian>
+            <Icelandic>Karlar (Takistan borgarar (3CB Factions))</Icelandic>
+            <Greek>Άνδρες (Πολίτες του Takistan (3CB Factions))</Greek>
+            <Finnish>Miehet (Takistanin siviilit (3CB Factions))</Finnish>
+            <Dutch>Mannen (Takistan-burgers (3CB Factions))</Dutch>
+            <Ukrainian>Чоловіки (Цивільні Такистану (3CB Factions))</Ukrainian>
         </Key>
     </Package>
 </Project>

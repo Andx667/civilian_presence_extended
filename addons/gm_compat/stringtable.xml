@@ -3,9 +3,55 @@
     <Package name="gm_compat">
         <Key ID="STR_cpx_gm_compat_GC_Name">
             <English>Men (East Germany (GM))</English>
+            <Czech>Muži (Východní Německo (GM))</Czech>
+            <French>Hommes (Allemagne de l'Est (GM))</French>
+            <Spanish>Hombres (Alemania Oriental (GM))</Spanish>
+            <Italian>Uomini (Germania Est (GM))</Italian>
+            <Polish>Mężczyźni (Niemcy Wschodnie (GM))</Polish>
+            <Portuguese>Homens (Alemanha Oriental (GM))</Portuguese>
+            <Russian>Мужчины (Восточная Германия (GM))</Russian>
+            <German>Männer (Ostdeutschland (GM))</German>
+            <Korean>남성 (동독 (GM))</Korean>
+            <Japanese>男性 (東ドイツ (GM))</Japanese>
+            <Chinese>男性 (東德 (GM))</Chinese>
+            <Chinesesimp>男性 (东德 (GM))</Chinesesimp>
+            <Turkish>Erkekler (Doğu Almanya (GM))</Turkish>
+            <Hungarian>Férfiak (Kelet-Németország (GM))</Hungarian>
+            <Swedish>Män (Östtyskland (GM))</Swedish>
+            <Slovak>Muži (Východné Nemecko (GM))</Slovak>
+            <SerboCroatian>Muškarci (Istočna Njemačka (GM))</SerboCroatian>
+            <Norwegian>Menn (Øst-Tyskland (GM))</Norwegian>
+            <Icelandic>Karlar (Austur-Þýðkaland (GM))</Icelandic>
+            <Greek>Άνδρες (Ανατολική Γερμανία (GM))</Greek>
+            <Finnish>Miehet (Itä-Saksa (GM))</Finnish>
+            <Dutch>Mannen (Oost-Duitsland (GM))</Dutch>
+            <Ukrainian>Чоловіки (Східна Німеччина (GM))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_gm_compat_GE_Name">
             <English>Men (West Germany (GM))</English>
+            <Czech>Muži (Západní Německo (GM))</Czech>
+            <French>Hommes (Allemagne de l'Ouest (GM))</French>
+            <Spanish>Hombres (Alemania Occidental (GM))</Spanish>
+            <Italian>Uomini (Germania Ovest (GM))</Italian>
+            <Polish>Mężczyźni (Niemcy Zachodnie (GM))</Polish>
+            <Portuguese>Homens (Alemanha Ocidental (GM))</Portuguese>
+            <Russian>Мужчины (Западная Германия (GM))</Russian>
+            <German>Männer (Westdeutschland (GM))</German>
+            <Korean>남성 (서독 (GM))</Korean>
+            <Japanese>男性 (西ドイツ (GM))</Japanese>
+            <Chinese>男性 (西德 (GM))</Chinese>
+            <Chinesesimp>男性 (西德 (GM))</Chinesesimp>
+            <Turkish>Erkekler (Batı Almanya (GM))</Turkish>
+            <Hungarian>Férfiak (Nyugat-Németország (GM))</Hungarian>
+            <Swedish>Män (Västtyskland (GM))</Swedish>
+            <Slovak>Muži (Západné Nemecko (GM))</Slovak>
+            <SerboCroatian>Muškarci (Zapadna Njemačka (GM))</SerboCroatian>
+            <Norwegian>Menn (Vest-Tyskland (GM))</Norwegian>
+            <Icelandic>Karlar (Vestur-Þýðkaland (GM))</Icelandic>
+            <Greek>Άνδρες (Δυτική Γερμανία (GM))</Greek>
+            <Finnish>Miehet (Länsi-Saksa (GM))</Finnish>
+            <Dutch>Mannen (West-Duitsland (GM))</Dutch>
+            <Ukrainian>Чоловіки (Західна Німеччина (GM))</Ukrainian>
         </Key>
     </Package>
 </Project>

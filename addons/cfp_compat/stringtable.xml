@@ -3,21 +3,159 @@
     <Package name="cfp_compat">
         <Key ID="STR_cpx_cfp_compat_AFG_Name">
             <English>Civilians (Afghanistan (CFP))</English>
+            <Czech>Civilisté (Afghánistán (CFP))</Czech>
+            <French>Civils (Afghanistan (CFP))</French>
+            <Spanish>Civiles (Afganistán (CFP))</Spanish>
+            <Italian>Civili (Afghanistan (CFP))</Italian>
+            <Polish>Cywile (Afganistan (CFP))</Polish>
+            <Portuguese>Civis (Afeganistão (CFP))</Portuguese>
+            <Russian>Гражданские (Афганистан (CFP))</Russian>
+            <German>Zivilisten (Afghanistan (CFP))</German>
+            <Korean>민간인 (아프가니스탄 (CFP))</Korean>
+            <Japanese>民間人 (アフガニスタン (CFP))</Japanese>
+            <Chinese>平民 (阿富汗 (CFP))</Chinese>
+            <Chinesesimp>平民 (阿富汗 (CFP))</Chinesesimp>
+            <Turkish>Siviller (Afganistan (CFP))</Turkish>
+            <Hungarian>Civilek (Afganisztán (CFP))</Hungarian>
+            <Swedish>Civilister (Afghanistan (CFP))</Swedish>
+            <Slovak>Civilisti (Afganistan (CFP))</Slovak>
+            <SerboCroatian>Civili (Afganistan (CFP))</SerboCroatian>
+            <Norwegian>Sivilister (Afghanistan (CFP))</Norwegian>
+            <Icelandic>Borgarar (Afganistan (CFP))</Icelandic>
+            <Greek>Πολίτες (Αφγανιστάν (CFP))</Greek>
+            <Finnish>Siviilit (Afganistan (CFP))</Finnish>
+            <Dutch>Burgers (Afghanistan (CFP))</Dutch>
+            <Ukrainian>Цивільні (Афганістан (CFP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cfp_compat_AFRCHRISTIAN_Name">
             <English>Civilians (African Christian (CFP))</English>
+            <Czech>Civilisté (Afričtí křesťané (CFP))</Czech>
+            <French>Civils (Chrétiens africains (CFP))</French>
+            <Spanish>Civiles (Cristianos africanos (CFP))</Spanish>
+            <Italian>Civili (Cristiani africani (CFP))</Italian>
+            <Polish>Cywile (Afrykańscy chrześcijanie (CFP))</Polish>
+            <Portuguese>Civis (Cristãos africanos (CFP))</Portuguese>
+            <Russian>Гражданские (Африканские христиане (CFP))</Russian>
+            <German>Zivilisten (Afrikanische Christen (CFP))</German>
+            <Korean>민간인 (아프리카 기독교도 (CFP))</Korean>
+            <Japanese>民間人 (アフリカのキリスト教徒 (CFP))</Japanese>
+            <Chinese>平民 (非洲基督徒 (CFP))</Chinese>
+            <Chinesesimp>平民 (非洲基督徒 (CFP))</Chinesesimp>
+            <Turkish>Siviller (Afrika Hristiyanları (CFP))</Turkish>
+            <Hungarian>Civilek (Afrikai keresztények (CFP))</Hungarian>
+            <Swedish>Civilister (Afrikanska kristna (CFP))</Swedish>
+            <Slovak>Civilisti (Africkí kresťania (CFP))</Slovak>
+            <SerboCroatian>Civili (Afrički kršćani (CFP))</SerboCroatian>
+            <Norwegian>Sivilister (Afrikanske kristne (CFP))</Norwegian>
+            <Icelandic>Borgarar (Afrískir kristnir (CFP))</Icelandic>
+            <Greek>Πολίτες (Αφρικανοί Χριστιανοί (CFP))</Greek>
+            <Finnish>Siviilit (Afrikkalaiset kristityt (CFP))</Finnish>
+            <Dutch>Burgers (Afrikaanse christenen (CFP))</Dutch>
+            <Ukrainian>Цивільні (Африканські християни (CFP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cfp_compat_AFRISLAMIC_Name">
             <English>Civilians (African Islamic (CFP))</English>
+            <Czech>Civilisté (Afričtí muslimové (CFP))</Czech>
+            <French>Civils (Musulmans africains (CFP))</French>
+            <Spanish>Civiles (Musulmanes africanos (CFP))</Spanish>
+            <Italian>Civili (Musulmani africani (CFP))</Italian>
+            <Polish>Cywile (Afrykańscy muzulmanie (CFP))</Polish>
+            <Portuguese>Civis (Muçulmanos africanos (CFP))</Portuguese>
+            <Russian>Гражданские (Африканские мусульмане (CFP))</Russian>
+            <German>Zivilisten (Afrikanische Muslime (CFP))</German>
+            <Korean>민간인 (아프리카 이슬람교도 (CFP))</Korean>
+            <Japanese>民間人 (アフリカのイスラム教徒 (CFP))</Japanese>
+            <Chinese>平民 (非洲伊斯蘭教徒 (CFP))</Chinese>
+            <Chinesesimp>平民 (非洲伊斯兰教徒 (CFP))</Chinesesimp>
+            <Turkish>Siviller (Afrika Müslümanları (CFP))</Turkish>
+            <Hungarian>Civilek (Afrikai muzulmánok (CFP))</Hungarian>
+            <Swedish>Civilister (Afrikanska muslimer (CFP))</Swedish>
+            <Slovak>Civilisti (Africkí moslimovia (CFP))</Slovak>
+            <SerboCroatian>Civili (Afrički muslimani (CFP))</SerboCroatian>
+            <Norwegian>Sivilister (Afrikanske muslimer (CFP))</Norwegian>
+            <Icelandic>Borgarar (Afrískir múslimar (CFP))</Icelandic>
+            <Greek>Πολίτες (Αφρικανοί Μουσουλμάνοι (CFP))</Greek>
+            <Finnish>Siviilit (Afrikkalaiset muslimit (CFP))</Finnish>
+            <Dutch>Burgers (Afrikaanse moslims (CFP))</Dutch>
+            <Ukrainian>Цивільні (Африканські мусульмани (CFP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cfp_compat_ASIA_Name">
             <English>Civilians (Asian (CFP))</English>
+            <Czech>Civilisté (Asijští (CFP))</Czech>
+            <French>Civils (Asiatiques (CFP))</French>
+            <Spanish>Civiles (Asiáticos (CFP))</Spanish>
+            <Italian>Civili (Asiatici (CFP))</Italian>
+            <Polish>Cywile (Azjatyccy (CFP))</Polish>
+            <Portuguese>Civis (Asiáticos (CFP))</Portuguese>
+            <Russian>Гражданские (Азиатские (CFP))</Russian>
+            <German>Zivilisten (Asiatisch (CFP))</German>
+            <Korean>민간인 (아시아 (CFP))</Korean>
+            <Japanese>民間人 (アジア (CFP))</Japanese>
+            <Chinese>平民 (亞洲 (CFP))</Chinese>
+            <Chinesesimp>平民 (亚洲 (CFP))</Chinesesimp>
+            <Turkish>Siviller (Asyalı (CFP))</Turkish>
+            <Hungarian>Civilek (Ázsiai (CFP))</Hungarian>
+            <Swedish>Civilister (Asiatiska (CFP))</Swedish>
+            <Slovak>Civilisti (Ázijskí (CFP))</Slovak>
+            <SerboCroatian>Civili (Azijski (CFP))</SerboCroatian>
+            <Norwegian>Sivilister (Asiatiske (CFP))</Norwegian>
+            <Icelandic>Borgarar (Ísískir (CFP))</Icelandic>
+            <Greek>Πολίτες (Ασιατικοί (CFP))</Greek>
+            <Finnish>Siviilit (Aasialaiset (CFP))</Finnish>
+            <Dutch>Burgers (Aziatisch (CFP))</Dutch>
+            <Ukrainian>Цивільні (Азіатські (CFP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cfp_compat_CHERNO_WIN_Name">
             <English>Civilians (Chernarus Winter (CFP))</English>
+            <Czech>Civilisté (Chernarus zima (CFP))</Czech>
+            <French>Civils (Chernarus hiver (CFP))</French>
+            <Spanish>Civiles (Chernarus invierno (CFP))</Spanish>
+            <Italian>Civili (Chernarus inverno (CFP))</Italian>
+            <Polish>Cywile (Chernarus zima (CFP))</Polish>
+            <Portuguese>Civis (Chernarus inverno (CFP))</Portuguese>
+            <Russian>Гражданские (Чернарус зима (CFP))</Russian>
+            <German>Zivilisten (Chernarus Winter (CFP))</German>
+            <Korean>민간인 (체르나루스 겨울 (CFP))</Korean>
+            <Japanese>民間人 (チェルナルス 冬 (CFP))</Japanese>
+            <Chinese>平民 (車臣冬季 (CFP))</Chinese>
+            <Chinesesimp>平民 (车臣冬季 (CFP))</Chinesesimp>
+            <Turkish>Siviller (Chernarus Kış (CFP))</Turkish>
+            <Hungarian>Civilek (Chernarus tél (CFP))</Hungarian>
+            <Swedish>Civilister (Chernarus vinter (CFP))</Swedish>
+            <Slovak>Civilisti (Chernarus zima (CFP))</Slovak>
+            <SerboCroatian>Civili (Chernarus zima (CFP))</SerboCroatian>
+            <Norwegian>Sivilister (Chernarus vinter (CFP))</Norwegian>
+            <Icelandic>Borgarar (Chernarus vetur (CFP))</Icelandic>
+            <Greek>Πολίτες (Chernarus χειμώνας (CFP))</Greek>
+            <Finnish>Siviilit (Chernarus talvi (CFP))</Finnish>
+            <Dutch>Burgers (Chernarus winter (CFP))</Dutch>
+            <Ukrainian>Цивільні (Чернарус зима (CFP))</Ukrainian>
         </Key>
         <Key ID="STR_cpx_cfp_compat_ME_Name">
             <English>Civilians (Middel East (CFP))</English>
+            <Czech>Civilisté (Blízký východ (CFP))</Czech>
+            <French>Civils (Moyen-Orient (CFP))</French>
+            <Spanish>Civiles (Oriente Medio (CFP))</Spanish>
+            <Italian>Civili (Medio Oriente (CFP))</Italian>
+            <Polish>Cywile (Bliski Wschód (CFP))</Polish>
+            <Portuguese>Civis (Oriente Médio (CFP))</Portuguese>
+            <Russian>Гражданские (Ближний Восток (CFP))</Russian>
+            <German>Zivilisten (Naher Osten (CFP))</German>
+            <Korean>민간인 (중동 (CFP))</Korean>
+            <Japanese>民間人 (中東 (CFP))</Japanese>
+            <Chinese>平民 (中東 (CFP))</Chinese>
+            <Chinesesimp>平民 (中东 (CFP))</Chinesesimp>
+            <Turkish>Siviller (Orta Doğu (CFP))</Turkish>
+            <Hungarian>Civilek (Közel-Kelet (CFP))</Hungarian>
+            <Swedish>Civilister (Mellanöstern (CFP))</Swedish>
+            <Slovak>Civilisti (Blízky východ (CFP))</Slovak>
+            <SerboCroatian>Civili (Srednji istok (CFP))</SerboCroatian>
+            <Norwegian>Sivilister (Midtøsten (CFP))</Norwegian>
+            <Icelandic>Borgarar (Mið-austurlandi (CFP))</Icelandic>
+            <Greek>Πολίτες (Μέση Ανατολή (CFP))</Greek>
+            <Finnish>Siviilit (Lähi-itä (CFP))</Finnish>
+            <Dutch>Burgers (Midden-Oosten (CFP))</Dutch>
+            <Ukrainian>Цивільні (Близький Схід (CFP))</Ukrainian>
         </Key>
     </Package>
 </Project>

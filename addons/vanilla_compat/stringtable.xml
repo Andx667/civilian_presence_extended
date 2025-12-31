@@ -3,6 +3,29 @@
     <Package name="vanilla_compat">
         <Key ID="STR_cpx_vanilla_compat_IDAP_Name">
             <English>Men (IDAP)</English>
+            <Czech>Muži (IDAP)</Czech>
+            <French>Hommes (IDAP)</French>
+            <Spanish>Hombres (IDAP)</Spanish>
+            <Italian>Uomini (IDAP)</Italian>
+            <Polish>Mężczyźni (IDAP)</Polish>
+            <Portuguese>Homens (IDAP)</Portuguese>
+            <Russian>Мужчины (IDAP)</Russian>
+            <German>Männer (IDAP)</German>
+            <Korean>남성 (IDAP)</Korean>
+            <Japanese>男性 (IDAP)</Japanese>
+            <Chinese>男性 (IDAP)</Chinese>
+            <Chinesesimp>男性 (IDAP)</Chinesesimp>
+            <Turkish>Erkekler (IDAP)</Turkish>
+            <Hungarian>Férfiak (IDAP)</Hungarian>
+            <Swedish>Män (IDAP)</Swedish>
+            <Slovak>Muži (IDAP)</Slovak>
+            <SerboCroatian>Muškarci (IDAP)</SerboCroatian>
+            <Norwegian>Menn (IDAP)</Norwegian>
+            <Icelandic>Karlar (IDAP)</Icelandic>
+            <Greek>Άνδρες (IDAP)</Greek>
+            <Finnish>Miehet (IDAP)</Finnish>
+            <Dutch>Mannen (IDAP)</Dutch>
+            <Ukrainian>Чоловіки (IDAP)</Ukrainian>
         </Key>
     </Package>
 </Project>
