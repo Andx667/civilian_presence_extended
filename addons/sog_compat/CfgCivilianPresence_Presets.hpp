@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_SOG_VN {
-        name = "Men (Vietnam (SOG))";
+        name = CSTRING(VN_Name);
         picture = "\vn\objects_f_vietnam\flags\vn_flag_01_arvn_co.paa";
         value = "CIV_SOG_VN";
         defaultValue = "CIV_SOG_VN";

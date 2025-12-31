@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_3CB_Factions_ADC {
-        name = "Men (African Desert Civilians (3CB Factions))";
+        name = CSTRING(ADC_Name);
         picture = "UK3CB_Factions\addons\UK3CB_Factions_ADC\Flag\ADC_flag_co.paa";
         value = "CIV_3CB_Factions_ADC";
         defaultValue = "CIV_3CB_Factions_ADC";
@@ -34,7 +34,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_3CB_Factions_MEC {
-        name = "Men (Middle Eastern Civilians (3CB Factions))";
+        name = CSTRING(MEC_Name);
         picture = "UK3CB_Factions\addons\UK3CB_Factions_MEC\Flag\MEC_flag_co.paa";
         value = "CIV_3CB_Factions_MEC";
         defaultValue = "CIV_3CB_Factions_MEC";
@@ -60,7 +60,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_3CB_Factions_CHC {
-        name = "Men (Chernarus Civilians (3CB Factions))";
+        name = CSTRING(CHC_Name);
         picture = "UK3CB_Factions\addons\UK3CB_Factions_CHC\Flag\CHC_flag_co.paa";
         value = "CIV_3CB_Factions_CHC";
         defaultValue = "CIV_3CB_Factions_CHC";
@@ -90,7 +90,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_3CB_Factions_TKC {
-        name = "Men (Takistan Civilians (3CB Factions))";
+        name = CSTRING(TKC_Name);
         picture = "UK3CB_Factions\addons\UK3CB_Factions_TKC\Flag\tkc_flag_co.paa";
         value = "CIV_3CB_Factions_TKC";
         defaultValue = "CIV_3CB_Factions_TKC";

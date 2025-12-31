@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_CUP_C {
-        name = "Men (Chernarus (CUP))";
+        name = CSTRING(C_Name);
         picture = "\CUP\BaseConfigs\CUP_BaseConfigs\data\Flags\flag_chernarus_co.paa";
         value = "CIV_CUP_C";
         defaultValue = "CIV_CUP_C";
@@ -68,7 +68,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CUP_R {
-        name = "Men (Russian (CUP))";
+        name = CSTRING(R_Name);
         picture = "\CUP\BaseConfigs\CUP_BaseConfigs\data\Flags\flag_rus_co.paa";
         value = "CIV_CUP_R";
         defaultValue = "CIV_CUP_R";
@@ -132,7 +132,7 @@ class CivilianPresence_Presets {
     };
 
     class CIV_CUP_TK {
-        name = "Men (Takistan (CUP))";
+        name = CSTRING(TK_Name);
         picture = "\CUP\BaseConfigs\CUP_BaseConfigs\data\Flags\flag_tka_co.paa";
         value = "CIV_CUP_TK";
         defaultValue = "CIV_CUP_TK";
@@ -167,6 +167,3 @@ class CivilianPresence_Presets {
         };
     };
 };
-
-
-

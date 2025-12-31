@@ -1,7 +1,7 @@
 class CivilianPresence_Presets {
     //https://community.bistudio.com/wiki/Arma_3:_Civilian_Presence
     class CIV_IDAP {
-        name = "Men (IDAP)";
+        name = CSTRING(IDAP_Name);
         picture = "\a3\Data_F_Orange\Flags\flag_IDAP_co.paa";
         value = "CIV_IDAP";
         defaultValue = "CIV_IDAP";
@@ -29,6 +29,3 @@ class CivilianPresence_Presets {
         };
     };
 };
-
-
-
