@@ -1,4 +1,4 @@
-name = "Civilian Presence Extended";
+name = "Civilian Presence Extended v0.0.0";
 
 author = "Andx";
 
