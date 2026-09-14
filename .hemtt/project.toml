@@ -3,6 +3,10 @@ author = "Andx"
 prefix = "cpx"
 mainprefix = "x"
 
+[hemtt.publish]
+description = "workshop/steam_description.md"
+changelog = "CHANGELOG.md"
+
 [files]
 include = [
     "mod.cpp",      # These files are copied to the build directory by default

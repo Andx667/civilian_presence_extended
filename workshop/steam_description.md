@@ -1,33 +1,33 @@
-[img=https://i.imgur.com/3Qd4tiO.gif][/img]
+![Civilian Presence Extended](https://i.imgur.com/3Qd4tiO.gif)
 
-[h1]Civilian Presence Extended[/h1]
+# Civilian Presence Extended
 
 Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if the respective base Mod is loaded:
 
-[h2]Vanilla[/h2]
+## Vanilla
 
 - IDAP
 
-[h2]3CB Factions[/h2]
+## 3CB Factions
 
 - African Desert Civilians
 - Middle Eastern Civilians
 - Chernarus Civilians
 - Takistan Civilians
 
-[h2]Project Opfor[/h2]
+## Project Opfor
 
 - African Civilians
 - Middle Eastern Civilians
 - Eastern European Civilians
 
-[h2]CUP[/h2]
+## CUP
 
 - Chernarus Civilians
 - Russian Civilians
 - Takistan Civilians
 
-[h2]Community Factions Project[/h2]
+## Community Factions Project
 
 - Aghanistan (only contains 2 Units)
 - African Christian
@@ -36,23 +36,23 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 - Chernarus Winter (only contains 3 Units)
 - Middle East (only contains 2 Units)
 
-[h2]CDLC Global Mobilization[/h2]
+## CDLC Global Mobilization
 
 - East Germany
 - West Germany (includes some plain East Germans to bulk up the numbers)
 
-[h2]CDLC S.O.G Prairie Fire[/h2]
+## CDLC S.O.G Prairie Fire
 
 - Vietnamese
 
-[h2]CDLC CSLA Iron Curtain[/h2]
+## CDLC CSLA Iron Curtain
 
 - Czechoslovakia
 
-[h2]Links[/h2]
+## Links
 
-- [url=https://github.com/Andx667/civilian_presence_extended]GitHub[/url]
-- [url=https://discord.com/channels/1422294842897203200/1445554176322175158]Discord [/url]
+- [GitHub](https://github.com/Andx667/civilian_presence_extended)
+- [Discord](https://discord.com/channels/1422294842897203200/1445554176322175158)
 
 ---
 
