@@ -14,7 +14,10 @@
     </a>
     <br>
     <img src="https://img.shields.io/github/actions/workflow/status/Andx667/civilian_presence_extended/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/civilian_presence_extended/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
+
+__No hard dependencies__ — built on Arma 3's own Civilian Presence module. Each faction pack below activates automatically if you also run the matching mod.
 
 __Civilian Presence Extended__ (CPX) extends Arma 3's Civilian Presence module with new civilian factions from other mods.
 
