@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="CPX">
-    <Package name="Main">
-        <Key ID="STR_CPX_Main_mod_URL">
+<Project name="cpx">
+    <Package name="main">
+        <Key ID="STR_cpx_main_mod_URL">
             <English>https://github.com/Andx667/civilian_presence_extended</English>
         </Key>
-        <Key ID="STR_CPX_Main_mod_author">
+        <Key ID="STR_cpx_main_mod_author">
             <English>CPX Team</English>
         </Key>
     </Package>
