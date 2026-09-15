@@ -1,6 +1,8 @@
 # Civilian Presence Extended
 
-![Civilian Presence Extended Logo](https://github.com/Andx667/civilian_presence_extended/blob/main/img/logo.png)
+<p align="center">
+    <img src="https://github.com/Andx667/civilian_presence_extended/blob/main/img/logo.png" alt="Civilian Presence Extended Logo">
+</p>
 
 <p align="center">
     <a href="https://github.com/Andx667/civilian_presence_extended/issues">
