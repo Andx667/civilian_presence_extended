@@ -52,7 +52,7 @@ Adds the following Civilian Factions to the Arma 3 Civilian Presence Module, if 
 ## Links
 
 - [GitHub](https://github.com/Andx667/civilian_presence_extended)
-- [Discord](https://discord.com/channels/1422294842897203200/1445554176322175158)
+- [Discord](https://discord.gg/ag4v6kxYAa)
 
 ---
 
