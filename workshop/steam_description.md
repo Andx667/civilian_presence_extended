@@ -4,38 +4,38 @@
 
 **Civilian Presence Extended** (CPX) extends Arma 3's Civilian Presence module with new civilian factions from other mods.
 
-# Requirements
+## Requirements
 
 No hard dependencies — built on Arma 3's own Civilian Presence module. Each faction pack below activates automatically if you also run the matching mod.
 
-# Features
+## Features
 
 Adds the following civilian factions to the Civilian Presence module, if the respective base mod is loaded:
 
-## Vanilla
+### Vanilla
 
 - IDAP
 
-## 3CB Factions
+### 3CB Factions
 
 - African Desert Civilians
 - Middle Eastern Civilians
 - Chernarus Civilians
 - Takistan Civilians
 
-## Project Opfor
+### Project Opfor
 
 - African Civilians
 - Middle Eastern Civilians
 - Eastern European Civilians
 
-## CUP
+### CUP
 
 - Chernarus Civilians
 - Russian Civilians
 - Takistan Civilians
 
-## Community Factions Project
+### Community Factions Project
 
 - Aghanistan (only contains 2 Units)
 - African Christian
@@ -44,20 +44,20 @@ Adds the following civilian factions to the Civilian Presence module, if the res
 - Chernarus Winter (only contains 3 Units)
 - Middle East (only contains 2 Units)
 
-## CDLC Global Mobilization
+### CDLC Global Mobilization
 
 - East Germany
 - West Germany (includes some plain East Germans to bulk up the numbers)
 
-## CDLC S.O.G Prairie Fire
+### CDLC S.O.G Prairie Fire
 
 - Vietnamese
 
-## CDLC CSLA Iron Curtain
+### CDLC CSLA Iron Curtain
 
 - Czechoslovakia
 
-# Source & Issues
+## Source & Issues
 
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
