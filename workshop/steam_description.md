@@ -69,4 +69,4 @@ Licensed under [MIT](https://github.com/Andx667/civilian_presence_extended/blob/
 
 ---
 
-Suchst du eine deutschsprachige Arma3 und Reforger Community? -> https://tacticalteam.de/mitmachen
+Suchst du eine deutschsprachige Arma3 und Reforger Community? -> [tacticalteam.de/mitmachen](https://tacticalteam.de/mitmachen)
