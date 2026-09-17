@@ -42,11 +42,11 @@ logoSmall   = "img\logo_ca.paa";
 
 
 // --- DLC ---
-// Color used for DLC stripes and backgrounds (RGBA)
+// Civilian violet (RGBA) — color used for DLC stripes and backgrounds
 dlcColor[] =
 {
-    0.4117647058823529,
+    0.59,
     0.0,
-    0.0,
+    0.59,
     1
 };
