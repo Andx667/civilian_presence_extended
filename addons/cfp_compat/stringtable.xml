@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="cfp_compat">
-        <Key ID="STR_cpx_cfp_compat_AFG_Name">
+    <Package name="Cfp_Compat">
+        <Key ID="STR_cpx_Cfp_Compat_AFG_Name">
             <English>Civilians (Afghanistan (CFP))</English>
             <Czech>Civilisté (Afghánistán (CFP))</Czech>
             <French>Civils (Afghanistan (CFP))</French>
@@ -26,7 +26,7 @@
             <Dutch>Burgers (Afghanistan (CFP))</Dutch>
             <Ukrainian>Цивільні (Афганістан (CFP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cfp_compat_AFRCHRISTIAN_Name">
+        <Key ID="STR_cpx_Cfp_Compat_AFRCHRISTIAN_Name">
             <English>Civilians (African Christian (CFP))</English>
             <Czech>Civilisté (Afričtí křesťané (CFP))</Czech>
             <French>Civils (Chrétiens africains (CFP))</French>
@@ -51,7 +51,7 @@
             <Dutch>Burgers (Afrikaanse christenen (CFP))</Dutch>
             <Ukrainian>Цивільні (Африканські християни (CFP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cfp_compat_AFRISLAMIC_Name">
+        <Key ID="STR_cpx_Cfp_Compat_AFRISLAMIC_Name">
             <English>Civilians (African Islamic (CFP))</English>
             <Czech>Civilisté (Afričtí muslimové (CFP))</Czech>
             <French>Civils (Musulmans africains (CFP))</French>
@@ -76,7 +76,7 @@
             <Dutch>Burgers (Afrikaanse moslims (CFP))</Dutch>
             <Ukrainian>Цивільні (Африканські мусульмани (CFP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cfp_compat_ASIA_Name">
+        <Key ID="STR_cpx_Cfp_Compat_ASIA_Name">
             <English>Civilians (Asian (CFP))</English>
             <Czech>Civilisté (Asijští (CFP))</Czech>
             <French>Civils (Asiatiques (CFP))</French>
@@ -101,7 +101,7 @@
             <Dutch>Burgers (Aziatisch (CFP))</Dutch>
             <Ukrainian>Цивільні (Азіатські (CFP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cfp_compat_CHERNO_WIN_Name">
+        <Key ID="STR_cpx_Cfp_Compat_CHERNO_WIN_Name">
             <English>Civilians (Chernarus Winter (CFP))</English>
             <Czech>Civilisté (Chernarus zima (CFP))</Czech>
             <French>Civils (Chernarus hiver (CFP))</French>
@@ -126,7 +126,7 @@
             <Dutch>Burgers (Chernarus winter (CFP))</Dutch>
             <Ukrainian>Цивільні (Чернарус зима (CFP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cfp_compat_ME_Name">
+        <Key ID="STR_cpx_Cfp_Compat_ME_Name">
             <English>Civilians (Middle East (CFP))</English>
             <Czech>Civilisté (Blízký východ (CFP))</Czech>
             <French>Civils (Moyen-Orient (CFP))</French>

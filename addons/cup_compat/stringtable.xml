@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="cup_compat">
-        <Key ID="STR_cpx_cup_compat_C_Name">
+    <Package name="Cup_Compat">
+        <Key ID="STR_cpx_Cup_Compat_C_Name">
             <English>Men (Chernarus (CUP))</English>
             <Czech>Muži (Chernarus (CUP))</Czech>
             <French>Hommes (Chernarus (CUP))</French>
@@ -26,7 +26,7 @@
             <Dutch>Mannen (Chernarus (CUP))</Dutch>
             <Ukrainian>Чоловіки (Чернарус (CUP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cup_compat_R_Name">
+        <Key ID="STR_cpx_Cup_Compat_R_Name">
             <English>Men (Russian (CUP))</English>
             <Czech>Muži (Ruští (CUP))</Czech>
             <French>Hommes (Russes (CUP))</French>
@@ -51,7 +51,7 @@
             <Dutch>Mannen (Russisch (CUP))</Dutch>
             <Ukrainian>Чоловіки (Російські (CUP))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_cup_compat_TK_Name">
+        <Key ID="STR_cpx_Cup_Compat_TK_Name">
             <English>Men (Takistan (CUP))</English>
             <Czech>Muži (Takistán (CUP))</Czech>
             <French>Hommes (Takistan (CUP))</French>

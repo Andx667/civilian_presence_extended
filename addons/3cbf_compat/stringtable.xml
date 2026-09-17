@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="3cbf_compat">
-        <Key ID="STR_cpx_3cbf_compat_ADC_Name">
+    <Package name="3Cbf_Compat">
+        <Key ID="STR_cpx_3Cbf_Compat_ADC_Name">
             <English>Men (African Desert Civilians (3CB Factions))</English>
             <Czech>Muži (Afričtí pouštní civilisté (3CB Factions))</Czech>
             <French>Hommes (Civils du désert africain (3CB Factions))</French>
@@ -26,7 +26,7 @@
             <Dutch>Mannen (Afrikaanse woestijnburgers (3CB Factions))</Dutch>
             <Ukrainian>Чоловіки (Африканські пустельні цивільні (3CB Factions))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_3cbf_compat_CHC_Name">
+        <Key ID="STR_cpx_3Cbf_Compat_CHC_Name">
             <English>Men (Chernarus Civilians (3CB Factions))</English>
             <Czech>Muži (Civilisté Chernarusu (3CB Factions))</Czech>
             <French>Hommes (Civils de Chernarus (3CB Factions))</French>
@@ -51,7 +51,7 @@
             <Dutch>Mannen (Chernarus-burgers (3CB Factions))</Dutch>
             <Ukrainian>Чоловіки (Цивільні Чернарусі (3CB Factions))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_3cbf_compat_MEC_Name">
+        <Key ID="STR_cpx_3Cbf_Compat_MEC_Name">
             <English>Men (Middle Eastern Civilians (3CB Factions))</English>
             <Czech>Muži (Blízkovýchodní civilisté (3CB Factions))</Czech>
             <French>Hommes (Civils du Moyen-Orient (3CB Factions))</French>
@@ -76,7 +76,7 @@
             <Dutch>Mannen (Midden-Oosterse burgers (3CB Factions))</Dutch>
             <Ukrainian>Чоловіки (Близькосхідні цивільні (3CB Factions))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_3cbf_compat_TKC_Name">
+        <Key ID="STR_cpx_3Cbf_Compat_TKC_Name">
             <English>Men (Takistan Civilians (3CB Factions))</English>
             <Czech>Muži (Civilisté Takistánu (3CB Factions))</Czech>
             <French>Hommes (Civils du Takistan (3CB Factions))</French>

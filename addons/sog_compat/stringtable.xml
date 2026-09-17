@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="sog_compat">
-        <Key ID="STR_cpx_sog_compat_VN_Name">
+    <Package name="Sog_Compat">
+        <Key ID="STR_cpx_Sog_Compat_VN_Name">
             <English>Men (Vietnam (SOG))</English>
             <Czech>Muži (Vietnam (SOG))</Czech>
             <French>Hommes (Vietnam (SOG))</French>
