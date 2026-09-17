@@ -61,8 +61,8 @@ Adds the following civilian factions to the Civilian Presence module, if the res
 
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
-[GitHub Repository](https://github.com/Andx667/civilian_presence_extended)
-[Report an Issue](https://github.com/Andx667/civilian_presence_extended/issues)
+[GitHub Repository](https://github.com/Andx667/civilian_presence_extended)  
+[Report an Issue](https://github.com/Andx667/civilian_presence_extended/issues)  
 [Discord](https://discord.gg/ag4v6kxYAa)
 
 Licensed under [MIT](https://github.com/Andx667/civilian_presence_extended/blob/main/LICENSE).
