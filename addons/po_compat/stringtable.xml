@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="po_compat">
-        <Key ID="STR_cpx_po_compat_AFR_Name">
+    <Package name="Po_Compat">
+        <Key ID="STR_cpx_Po_Compat_AFR_Name">
             <English>Men (African (Project Opfor))</English>
             <Czech>Muži (Afričtí (Project Opfor))</Czech>
             <French>Hommes (Africains (Project Opfor))</French>
@@ -26,7 +26,7 @@
             <Dutch>Mannen (Afrikaans (Project Opfor))</Dutch>
             <Ukrainian>Чоловіки (Африканці (Project Opfor))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_po_compat_CHR_Name">
+        <Key ID="STR_cpx_Po_Compat_CHR_Name">
             <English>Men (Eastern European (Project Opfor))</English>
             <Czech>Muži (Východoevropští (Project Opfor))</Czech>
             <French>Hommes (Européens de l'Est (Project Opfor))</French>
@@ -51,7 +51,7 @@
             <Dutch>Mannen (Oost-Europees (Project Opfor))</Dutch>
             <Ukrainian>Чоловіки (Східноєвропейські (Project Opfor))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_po_compat_TAK_Name">
+        <Key ID="STR_cpx_Po_Compat_TAK_Name">
             <English>Men (Middle Eastern (Project Opfor))</English>
             <Czech>Muži (Blízkovýchodní (Project Opfor))</Czech>
             <French>Hommes (Moyen-orientaux (Project Opfor))</French>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="csla_compat">
-        <Key ID="STR_cpx_csla_compat_CSLA_Name">
+    <Package name="Csla_Compat">
+        <Key ID="STR_cpx_Csla_Compat_CSLA_Name">
             <English>Men (Czechoslovakia (CSLA))</English>
             <Czech>Muži (Československo (CSLA))</Czech>
             <French>Hommes (Tchécoslovaquie (CSLA))</French>
