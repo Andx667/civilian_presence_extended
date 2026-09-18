@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="gm_compat">
-        <Key ID="STR_cpx_gm_compat_GC_Name">
+    <Package name="Gm_Compat">
+        <Key ID="STR_cpx_Gm_Compat_GC_Name">
             <English>Men (East Germany (GM))</English>
             <Czech>Muži (Východní Německo (GM))</Czech>
             <French>Hommes (Allemagne de l'Est (GM))</French>
@@ -26,7 +26,7 @@
             <Dutch>Mannen (Oost-Duitsland (GM))</Dutch>
             <Ukrainian>Чоловіки (Східна Німеччина (GM))</Ukrainian>
         </Key>
-        <Key ID="STR_cpx_gm_compat_GE_Name">
+        <Key ID="STR_cpx_Gm_Compat_GE_Name">
             <English>Men (West Germany (GM))</English>
             <Czech>Muži (Západní Německo (GM))</Czech>
             <French>Hommes (Allemagne de l'Ouest (GM))</French>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="cpx">
-    <Package name="vanilla_compat">
-        <Key ID="STR_cpx_vanilla_compat_IDAP_Name">
+    <Package name="Vanilla_Compat">
+        <Key ID="STR_cpx_Vanilla_Compat_IDAP_Name">
             <English>Men (IDAP)</English>
             <Czech>Muži (IDAP)</Czech>
             <French>Hommes (IDAP)</French>
