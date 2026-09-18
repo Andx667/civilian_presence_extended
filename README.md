@@ -25,7 +25,7 @@ __Civilian Presence Extended__ (CPX) extends Arma 3's Civilian Presence module w
 
 The project is entirely __open-source__ and any contributions are welcome.
 
-Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3617266753>
+Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3617266753>  
 Discord: <https://discord.gg/ag4v6kxYAa>
 
 ## Features
