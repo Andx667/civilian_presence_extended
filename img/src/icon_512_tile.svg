@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>civilian-presence-extended</title>
+<rect width="512" height="512" rx="0" fill="#161A1F"/>
+<g transform="translate(56.00 56.00) scale(2.00000)" color="#FFFFFF" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><circle cx="100" cy="100" r="92"/>
+<circle cx="72" cy="80" r="14"/>
+<path d="M44 140 C44 116 56 104 72 104 C88 104 100 116 100 140"/>
+<path d="M108 140 V96 L134 72 L160 96 V140 Z"/>
+<path d="M126 140 V118 H142 V140"/>
+</g>
+</svg>
