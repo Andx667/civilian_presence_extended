@@ -25,9 +25,9 @@ hidePicture = "false";
 
 // --- Main Menu ---
 // Logo displayed in the main menu 128x128
-logo        = "img\logo_ca.paa";
+logo        = "img\icon_ca.paa";
 // When the mouse is over, in the main menu 128x128
-logoOver    = "img\logo_ca.paa";
+logoOver    = "img\icon_ca.paa";
 // Tooltip when hovering over the Logo
 tooltip         = "Civilian Presence Extended";
 
@@ -38,7 +38,7 @@ tooltipOwned    = "Civilian Presence Extended";            // Where?
 
 // --- Misc. ---
 // Display next to the item added by the mod 64x64
-logoSmall   = "img\logo_ca.paa";
+logoSmall   = "img\icon_ca.paa";
 
 
 // --- DLC ---
