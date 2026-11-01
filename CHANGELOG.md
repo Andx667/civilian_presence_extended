@@ -7,7 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.5.0] - 2026-09-18
+## [1.5.0] - 2026-11-01
+
+### Changed
+
+- Updated mod logo and icon set
+- Sorted stringtables and enforced titlecase package names
+
+### Documentation
+
+- Unified README and Steam Workshop description with the shared mod template
 
 ## [1.4.0] - 2025-12-31
 
